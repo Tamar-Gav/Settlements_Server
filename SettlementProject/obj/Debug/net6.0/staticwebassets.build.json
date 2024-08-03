@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "K5ifBTFefxDyvgyvxBKejPl2guC3rzUBEAuoGPSOA9I=",
+  "Source": "SettlementProject",
+  "BasePath": "_content/SettlementProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SettlementProject\\wwwroot",
+      "Source": "SettlementProject",
+      "ContentRoot": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\SettlementProject\\wwwroot\\",
+      "BasePath": "_content/SettlementProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

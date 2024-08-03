@@ -1,0 +1,17 @@
+C:\Users\jimmy\Desktop\תמר לימודים  יד\SettlementProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\jimmy\Desktop\תמר לימודים  יד\SettlementProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimmy\Desktop\תמר לימודים  יד\SettlementProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\תמר לימודים  יד\SettlementProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\תמר לימודים  יד\SettlementProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\תמר לימודים  יד\SettlementProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\jimmy\Desktop\תמר לימודים  יד\SettlementProject\Service\bin\Debug\net6.0\Service.dll
+C:\Users\jimmy\Desktop\תמר לימודים  יד\SettlementProject\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\jimmy\Desktop\תמר לימודים  יד\SettlementProject\Service\bin\Debug\net6.0\Entities.dll
+C:\Users\jimmy\Desktop\תמר לימודים  יד\SettlementProject\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\jimmy\Desktop\תמר לימודים  יד\SettlementProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\jimmy\Desktop\תמר לימודים  יד\SettlementProject\Service\bin\Debug\net6.0\Entities.pdb
+C:\Users\jimmy\Desktop\תמר לימודים  יד\SettlementProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\jimmy\Desktop\תמר לימודים  יד\SettlementProject\Service\obj\Debug\net6.0\Service.dll
+C:\Users\jimmy\Desktop\תמר לימודים  יד\SettlementProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\jimmy\Desktop\תמר לימודים  יד\SettlementProject\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\jimmy\Desktop\תמר לימודים  יד\SettlementProject\Service\obj\Debug\net6.0\ref\Service.dll

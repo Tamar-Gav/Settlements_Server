@@ -1,0 +1,330 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\SettlementProject\\SettlementProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\DTO\\DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\DTO\\DTO.csproj",
+        "projectName": "DTO",
+        "projectPath": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\DTO\\DTO.csproj",
+        "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\SettlementProject\\SettlementProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\SettlementProject\\SettlementProject.csproj",
+        "projectName": "SettlementProject",
+        "projectPath": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\SettlementProject\\SettlementProject.csproj",
+        "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\SettlementProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\DTO\\DTO.csproj"
+              },
+              "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Repository\\Repository.csproj"
+              },
+              "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\jimmy\\Desktop\\תמר לימודים  יד\\SettlementProject\\Service\\Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
